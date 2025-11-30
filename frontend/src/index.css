@@ -1,0 +1,12 @@
+:root {
+  --white: #FFFFFF;
+  --beige: #F7EFE5;
+  --brown: #8B5E3C;
+  --brown-dark: #5A3C23;
+}
+
+body {
+  margin: 0;
+  background-color: var(--beige);
+  font-family: 'Inter', sans-serif;
+}
